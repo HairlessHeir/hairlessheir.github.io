@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on HairlessHeir</title>
+    <link>//localhost:1313/tags/untagged/</link>
+    <description>Recent content in Untagged on HairlessHeir</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 07 Jun 2026 16:41:03 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Post</title>
+      <link>//localhost:1313/posts/another-post/</link>
+      <pubDate>Sun, 07 Jun 2026 16:41:03 +0200</pubDate>
+      <guid>//localhost:1313/posts/another-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>//localhost:1313/posts/first-post/</link>
+      <pubDate>Thu, 18 Dec 2025 18:29:43 +0100</pubDate>
+      <guid>//localhost:1313/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;first-post&#34;&gt;First post.&lt;/h2&gt;&#xA;&lt;p&gt;This is a &lt;strong&gt;test post&lt;/strong&gt;. This text is &lt;em&gt;weird&lt;/em&gt;.&#xA;Visit &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
